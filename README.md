@@ -1,5 +1,7 @@
 World Temperature Interactive Dashboard
 
+
+
 CONCEPT
 
 The creation of this dataset is aimed at gaining insights into one of the biggest threats of our age, Global Warming. We illustrated our findings through various Python libraries and data cleaning and transformation techniques to help us visually communicate complex climate change data.
@@ -22,6 +24,7 @@ INSIGHTS
 • Looking at the top 3 rates of change for months, we can infer that climate change has more impact on colder months, indicating an increase in temperature during the winter seasons (hotter summer and colder winter).
 
 
+
 DATA
 
 The data used in this project is sourced from the Berkeley Earth Surface Temperature Study and comprises 1.6 billion temperature reports from 16 pre-existing archives, spanning from 1750 to 2000, offering a detailed and extensive view of historical temperature trends.
@@ -37,6 +40,8 @@ Key Data in the file include:
 • Global land temperature by cities and major cities
 
 • Global average land temperature by countries and states
+
+
 
 
 
